@@ -1,0 +1,46 @@
+div.a {
+        
+    flex-grow: 1;
+  }
+    .z{
+     font-size: 150%;
+     font-weight: bold;
+      font-variant: small-caps;
+      text-align: center;
+    }       
+   li{
+    border-left: 6px solid purple;
+    background-color: white;
+    width: 300px;
+    padding: 10px;
+    margin: 5px;
+    cursor: pointer;
+  }
+   
+   img {
+     margin: 0 auto;
+     display: block;
+     margin-right: auto;
+     position : center ;
+   }
+   .abc {
+     display: flex;
+   }
+   
+  
+   .vertical-menu ul {
+     
+     color: black;
+     display: block;
+     padding: 12px;
+     text-decoration: none;
+   }
+  
+   .vertical-menu li:hover {
+     background-color: #ccc;
+   }
+  
+   .vertical-menu ul.active {
+     background-color: #4caf50;
+     color: white;
+  }
